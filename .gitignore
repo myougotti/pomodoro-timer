@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Local data & user config
+pomodoro.db
+settings.json
+
+# Generated assets (run generate_assets.py to recreate)
+assets/icon.ico
+assets/icon.png
+assets/alarm.wav
+
+# IDEs
+.idea/
+.vscode/
+*.iml

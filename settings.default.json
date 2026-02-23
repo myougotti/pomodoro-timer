@@ -1,0 +1,8 @@
+{
+  "work_duration": 1500,
+  "short_break_duration": 300,
+  "long_break_duration": 900,
+  "always_on_top": false,
+  "sound_enabled": true,
+  "theme": "dark"
+}
